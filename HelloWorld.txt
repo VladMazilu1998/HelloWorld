@@ -1,0 +1,5 @@
+text = "Hello World!"
+(print text)
+
+for i in range(36):
+    print("Hello World!")
